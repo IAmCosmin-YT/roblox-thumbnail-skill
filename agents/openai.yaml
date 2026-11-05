@@ -1,0 +1,4 @@
+interface:
+  display_name: "Roblox Thumbnail Strategy"
+  short_description: "Design Roblox art, YouTube thumbnails and Shorts covers"
+  default_prompt: "Use $roblox-thumbnail-strategy to create a Roblox game thumbnail, YouTube devlog thumbnail, or vertical video cover from my assets and references."

@@ -1,0 +1,42 @@
+{
+  "source_file": "C:\\Users\\cosul\\Downloads\\Roblox_Fast_Data_2026-10-17(1).csv",
+  "source_sha256": "351df7958d6fa2eb05bea4198014ab66d1559e7c3b6391963b1d631e7ff3cc55",
+  "source_rows": 826,
+  "distinct_place_urls": 826,
+  "resolved_rows": 539,
+  "resolved_distinct_universes": 539,
+  "unresolved_rows": 287,
+  "unresolved_reason": "HTTP 429 after bounded retries",
+  "reviewed_distinct_games": 432,
+  "coverage_of_all_rows": 0.5230024213075061,
+  "selection": "Sort the 539 resolved games by descending CSV CurrentlyPlaying then place ID; choose indices floor(i*539/432) for i=0..431. This is a systematic coverage sample conditional on lookup success, not random or population representative.",
+  "artwork_collection_date": "2026-10-17",
+  "timezone": "Europe/Bucharest",
+  "icons_inspected": 432,
+  "blocked_thumbnail_review_ids": [
+    134,
+    336
+  ],
+  "generic_default_thumbnail_review_ids": [
+    404
+  ],
+  "metadata_crosschecked": 432,
+  "public_metrics_available": [
+    "CSV snapshot CCU, visits, likes, dislikes, update field",
+    "live metadata archived separately"
+  ],
+  "metrics_unavailable": [
+    "competitor impressions",
+    "competitor CTR",
+    "competitor qPTR",
+    "competitor retention",
+    "causal artwork lift"
+  ],
+  "api_templates": [
+    "https://apis.roblox.com/universes/v1/places/{placeId}/universe",
+    "https://thumbnails.roblox.com/v1/games/icons?universeIds={ids}&returnPolicy=PlaceHolder&size=150x150&format=Png&isCircular=false",
+    "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds={ids}&countPerUniverse=1&defaults=true&size=384x216&format=Png&isCircular=false",
+    "https://games.roblox.com/v1/games?universeIds={ids}"
+  ],
+  "usable_non_placeholder_thumbnails_inspected": 429
+}
