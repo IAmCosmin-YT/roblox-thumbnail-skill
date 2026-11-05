@@ -81,13 +81,8 @@ The skill's declared name is `roblox-thumbnail-strategy`. If your agent supports
 ## More examples
 
 <p align="center">
-  <img src="assets/emotion-factory-examples/generated-cosmic-cube-payoff.jpg" width="48%" alt="Roblox cosmic cube thumbnail" />
-  <img src="assets/emotion-factory-examples/generated-factory-overflow-too-fast.jpg" width="48%" alt="Roblox factory overflow thumbnail" />
-</p>
-
-<p align="center">
-  <img src="assets/emotion-factory-examples/generated-offline-automation.jpg" width="48%" alt="Roblox offline automation thumbnail" />
-  <img src="assets/emotion-factory-examples/generated-worker-conflict-stop-talking.jpg" width="48%" alt="Roblox worker conflict thumbnail" />
+  <img src="assets/creator-thumbnail-examples/breakerline-promos.jpg" width="48%" alt="BREAKERLINE vertical promotional thumbnails" />
+  <img src="assets/creator-thumbnail-examples/ascend-cupid.jpg" width="48%" alt="Ascend and Cupid Shorts artwork" />
 </p>
 
 More visual references are available in the [visual index](references/visual-index.md) and [study contact sheets](assets/study-contact-sheets/).
