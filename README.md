@@ -82,6 +82,8 @@ The skill's declared name is `roblox-thumbnail-strategy`. If your agent supports
 
 <p align="center">
   <img src="assets/creator-thumbnail-examples/breakerline-promos.jpg" width="48%" alt="BREAKERLINE vertical promotional thumbnails" />
+</p>
+<p align="center">
   <img src="assets/creator-thumbnail-examples/ascend-cupid.jpg" width="48%" alt="Ascend and Cupid Shorts artwork" />
 </p>
 
