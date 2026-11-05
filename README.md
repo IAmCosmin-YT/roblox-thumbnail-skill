@@ -1,3 +1,5 @@
+![Roblox thumbnail artwork showcase](assets/creator-thumbnail-examples/breakerline-blue.jpg)
+
 # Roblox Thumbnail Strategy
 
 **A research-backed AI skill for planning, creating, critiquing, and testing Roblox game icons, discovery thumbnails, YouTube devlog thumbnails, and vertical Shorts covers.**
@@ -76,29 +78,14 @@ The skill's declared name is `roblox-thumbnail-strategy`. If your agent supports
 
 > Give me three meaningfully different thumbnail hypotheses, then explain what I should track in Creator Dashboard to compare their results.
 
-## Example artwork
+## More examples
 
-These reference images illustrate the skill's composition and art-direction approaches. They are **visual examples**, not proof of measured click-through performance.
+<p align="center">
+  <img src="assets/creator-thumbnail-examples/breakerline-promos.jpg" width="48%" alt="BREAKERLINE vertical promotional thumbnails" />
+  <img src="assets/creator-thumbnail-examples/ascend-cupid.jpg" width="48%" alt="Ascend and Cupid Shorts artwork" />
+</p>
 
-### Roblox devlog thumbnail — BREAKERLINE
-
-![BREAKERLINE devlog thumbnail: creator facing the Surveyor](assets/creator-thumbnail-examples/breakerline-blue.jpg)
-
-A landscape composition using the creator's recognizable blocky avatar, a readable monster silhouette, a prominent red scanner eye, and a bright blue industrial environment.
-
-### Vertical promotional covers
-
-![BREAKERLINE vertical promotional thumbnail examples](assets/creator-thumbnail-examples/breakerline-promos.jpg)
-
-A contact sheet of 9:16 promotional covers. Examples include Roblox advertising and the "Every Room Is Red?!" hook, using strong headline hierarchy, expressive posing, and high-contrast visual cues.
-
-### Additional Shorts artwork
-
-![Ascend and Cupid vertical cover examples](assets/creator-thumbnail-examples/ascend-cupid.jpg)
-
-Examples of different game-specific stories: a character interaction, a valuable object, and a progression/reward fantasy. They show why each video needs its own visual premise instead of reusing a single generic layout.
-
-For the complete research-based reference collection, browse the [visual index](references/visual-index.md) and [study contact sheets](assets/study-contact-sheets/).
+More visual references are available in the [visual index](references/visual-index.md) and [study contact sheets](assets/study-contact-sheets/).
 
 ## Workflow
 
