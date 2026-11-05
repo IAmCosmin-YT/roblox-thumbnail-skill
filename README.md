@@ -8,6 +8,8 @@ Turn a real gameplay mechanic or video hook into a clear, recognizable visual—
 [![Skill](https://img.shields.io/badge/AI-Agent%20Skill-262626?style=flat-square)](SKILL.md)
 [![Python](https://img.shields.io/badge/Python-Thumbnail%20Typesetting-3776AB?style=flat-square)](scripts/typeset_thumbnail.py)
 
+**[Watch on YouTube](https://www.youtube.com/channel/UC3W2Ocp8Nt2msYkY2-Xkpew/)** · [Explore reference artwork](#example-artwork)
+
 ## What it does
 
 - **Roblox game thumbnails:** Develop distinct 16:9 concepts around an experience's actual core action, reward, threat, progression, or social fantasy.
@@ -73,6 +75,30 @@ The skill's declared name is `roblox-thumbnail-strategy`. If your agent supports
 **Variant testing**
 
 > Give me three meaningfully different thumbnail hypotheses, then explain what I should track in Creator Dashboard to compare their results.
+
+## Example artwork
+
+These reference images illustrate the skill's composition and art-direction approaches. They are **visual examples**, not proof of measured click-through performance.
+
+### Roblox devlog thumbnail — BREAKERLINE
+
+![BREAKERLINE devlog thumbnail: creator facing the Surveyor](assets/creator-thumbnail-examples/breakerline-blue.jpg)
+
+A landscape composition using the creator's recognizable blocky avatar, a readable monster silhouette, a prominent red scanner eye, and a bright blue industrial environment.
+
+### Vertical promotional covers
+
+![BREAKERLINE vertical promotional thumbnail examples](assets/creator-thumbnail-examples/breakerline-promos.jpg)
+
+A contact sheet of 9:16 promotional covers. Examples include Roblox advertising and the "Every Room Is Red?!" hook, using strong headline hierarchy, expressive posing, and high-contrast visual cues.
+
+### Additional Shorts artwork
+
+![Ascend and Cupid vertical cover examples](assets/creator-thumbnail-examples/ascend-cupid.jpg)
+
+Examples of different game-specific stories: a character interaction, a valuable object, and a progression/reward fantasy. They show why each video needs its own visual premise instead of reusing a single generic layout.
+
+For the complete research-based reference collection, browse the [visual index](references/visual-index.md) and [study contact sheets](assets/study-contact-sheets/).
 
 ## Workflow
 
@@ -182,7 +208,7 @@ Research represents a **dated, API-availability-constrained sample**. Artwork, g
 
 ## Author
 
-Created by [IAmCosmin-YT](https://github.com/IAmCosmin-YT).
+Created by [IAmCosmin-YT](https://github.com/IAmCosmin-YT). Watch my Roblox development videos and devlogs on **[YouTube](https://www.youtube.com/channel/UC3W2Ocp8Nt2msYkY2-Xkpew/)**.
 
 For suggestions, corrections, or improvements, [open an issue](https://github.com/IAmCosmin-YT/roblox-thumbnail-skill/issues).
 
